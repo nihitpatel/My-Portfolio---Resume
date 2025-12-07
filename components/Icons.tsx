@@ -15,7 +15,8 @@ import {
   X,
   Menu,
   ChevronRight,
-  Sparkles
+  Sparkles,
+  MapPin
 } from 'lucide-react';
 
 export { 
@@ -34,5 +35,6 @@ export {
   X,
   Menu,
   ChevronRight,
-  Sparkles
+  Sparkles,
+  MapPin
 };
